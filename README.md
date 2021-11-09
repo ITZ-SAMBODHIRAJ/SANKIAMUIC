@@ -1,7 +1,6 @@
 <h2 align="centre">😘𝐒𝐍𝐄𝐇𝐀 𝐀𝐁𝐇𝐈 𝐌𝐔𝐒𝐈𝐂🎵</h2>
 
-### A bot that can play music on Telegram Group and Channel Voice Chats
-
+### A BOT THAT CAN PLAY MUSIC ON VOICE CHAT VERY EASILY 
 <p align="center">
   <img src="https://telegra.ph/file/552e34e74c528dadec978.jpg">
 
@@ -47,12 +46,12 @@ vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit th
 python3 main.py # Run the bot
 ```
 
-### Special Credits 💖
+ [ SPECIAL CREDITS ]
 
 
-<a href="https://t.me/ITZ_HEARTLESS_OWNER"><img src="https://img.shields.io/badge/CREATOR-OWNER%20KING-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/ITZ_HEARTLESS_OWNER"><img src="https://img.shields.io/badge/DEVLOPER-OWNER%20KING-black.svg?style=for-the-badge&logo=Telegram">
 
-<a href="https://t.me/MR_X_OP_BOLTE"><img src="https://img.shields.io/badge/DEVELOPER-OWNER%20QUEEN-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/MR_X_OP_BOLTE"><img src="https://img.shields.io/badge/CREATOR-OWNER%20QUEEN-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### Support & Updates 🎑
-<a href="https://t.me/INDIAN_NETWORK_OP"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SNEHABHI_UPDATES"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/INDIAN_NETWORK_OP"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SNEHABHI_UPDATES"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
