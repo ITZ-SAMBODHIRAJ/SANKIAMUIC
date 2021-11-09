@@ -3,7 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <img src="https://telegra.ph/file/4637473e97df9854a1b36.jpg">
+  <img src="https://telegra.ph/file/552e34e74c528dadec978.jpg">
 
   
   ### Deploy To Railway 🚄</h5>
