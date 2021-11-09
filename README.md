@@ -51,7 +51,7 @@ python3 main.py # Run the bot
 
 <a href="https://t.me/ITZ_HEARTLESS_OWNER"><img src="https://img.shields.io/badge/DEVLOPER-OWNER%20KING-black.svg?style=for-the-badge&logo=Telegram">
 
-<a href="https://t.me/MR_X_OP_BOLTE"><img src="https://img.shields.io/badge/CREATOR-OWNER%20QUEEN-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/MR_X_OP_BOLTE"><img src="https://img.shields.io/badge/CREATOR-OWNER%20PRINCE-pink.svg?style=for-the-badge&logo=Telegram">
 
 ### Support & Updates 🎑
 <a href="https://t.me/INDIAN_NETWORK_OP"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SNEHABHI_UPDATES"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
