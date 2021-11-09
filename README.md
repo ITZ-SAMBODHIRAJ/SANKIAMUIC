@@ -24,7 +24,7 @@
 
 - Python 3.7+
 
-- <a href="https://t.me/SNEHABHI_SERVER"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+- <a href="https://t.me/INDIAN_NETWORK_OP"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
@@ -50,9 +50,9 @@ python3 main.py # Run the bot
 ### Special Credits 💖
 
 
-<a href="https://t.me/SNEHU_IS_MINE"><img src="https://img.shields.io/badge/CREATOR-OWNER%20KING-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/ITZ_HEARTLESS_OWNER"><img src="https://img.shields.io/badge/CREATOR-OWNER%20KING-blue.svg?style=for-the-badge&logo=Telegram">
 
-<a href="https://t.me/ABHI_IS_MINE"><img src="https://img.shields.io/badge/DEVELOPER-OWNER%20QUEEN-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/MR_X_OP_BOLTE"><img src="https://img.shields.io/badge/DEVELOPER-OWNER%20QUEEN-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### Support & Updates 🎑
-<a href="https://t.me/SNEHABHI_SERVER"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SNEHABHI_UPDATES"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/INDIAN_NETWORK_OP"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SNEHABHI_UPDATES"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
